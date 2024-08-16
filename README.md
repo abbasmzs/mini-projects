@@ -8,7 +8,6 @@ src/: Directory for source code files (.cpp).
 . EldenTree.cpp: Core implementation of the event handler.
 . EventQueue.cpp: Implementation of a concurrent event queue.
 . Event.cpp: Implementation of the event data structure.
-. Benchmark.cpp: Performance benchmarking tools.
 
 include/: Directory for header files (.h).
 . EldenTree.h: Header file for the EldenTree class.
